@@ -1,0 +1,14 @@
+header {
+    background-color: hsl(217, 19%, 32%);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+
